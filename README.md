@@ -1,3 +1,10 @@
-# React Online Store
+# My First React Online Store
 
-    My first React & MongoDB online store
+# Resources:
+
+    - React
+    - MongoDB
+
+# 1
+
+    First time pushing/pulling from different branches
