@@ -1,4 +1,4 @@
-# My First React Online Store
+# My First React Online Store - FULL STACK APP
 
 # Resources:
 
